@@ -1,0 +1,4 @@
+if game.PlaceId == 5872075530 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/101sk1/FiftyCents/main/wagogusbypass"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/101sk1/FiftyCents/main/013"))()
+end
